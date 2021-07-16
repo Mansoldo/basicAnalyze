@@ -1,1 +1,1 @@
-# basicAnalyze
+# Análise básica em Python
